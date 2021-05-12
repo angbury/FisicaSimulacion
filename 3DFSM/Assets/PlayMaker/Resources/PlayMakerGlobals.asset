@@ -33,3 +33,8 @@ MonoBehaviour:
     variableCategoryIDs: 
   events:
   - DESTRUIR
+  - ALENTAR
+  - DETENER
+  - ACELERAR
+  - NORMAL
+  - ADELANTAR
